@@ -1,14 +1,12 @@
-====== Curried Yogurt Chicken ======
-
-  * 1 Tbsp [[recipes:ghee|ghee]] (or vegetable oil, but ghee is way better for this)
-  * 1 cup sliced onion
-  * 1/4 cup minced ginger root
-  * 2 Tbsp minced garlic
-  * 1 tbsp sliced serrano chile pepper
-  * 1 tbsp [[recipes:garam_masala|garam masala]]
-  * 2 Tbsp curry powder
-  * 6 oz mango or peach yogurt
-  * 4 chicken hindquarters, skinned and trimmed (2-3 lb total)
+* 1 Tbsp [[Ghee]] *or vegetable oil, but ghee is way better for this*
+* 1 cup sliced onion
+* 1/4 cup minced ginger root
+* 2 Tbsp minced garlic
+* 1 tbsp sliced serrano chile pepper
+* 1 tbsp [[recipes:garam_masala|garam masala]]
+* 2 Tbsp curry powder
+* 6 oz mango or peach yogurt
+* 4 chicken hindquarters, skinned and trimmed (2-3 lb total)
 
 Heat ghee in a large skillet, add onion and saute till browned (3-5 minutes).  add ginger, garlic and serrano, and saute 2 minutes (don't burn the garlic).  add curry powder and garam masala, saute 1 minute.  Remove mixture from heat, spoon into a food processor, let cool for 5-10 minutes and add yogurt.  Food process till smooth.
 

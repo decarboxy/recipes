@@ -16,6 +16,8 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Chicken Breast Saute]]
 * [[Chicken Casserole]]
 * [[Chicken Cordon Bleu]]
+* [[Chicken Gumbo]]
+* [[Curried Yogurt Chicken]]
 
 ### Pork
 
@@ -30,10 +32,12 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 ## Seafood
 
 * [[Avocado Shrimp Salad]]
+* [[Crab Shrimp Appetizers]]
 
 ## Sauces
 
 * [[Alfredo Sauce]]
+* [[Country Gravy]]
 
 ## Soup
 
@@ -41,6 +45,7 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Butternut Squash And Turnip Soup]]
 * [[Butternut Squash Stew]]
 * [[Canh Chua]]
+* [[Cream Of Mushroom Soup]]
 
 ## Vegetable Dishes
 
@@ -52,12 +57,26 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Brussel Sprouts]]
 * [[Chickpea Burgers]]
 * [[Chickpea Stirfry]]
+* [[Chilled Zucchini Soup]]
+
+## Pasta
+
+* [[Creamy Pesto Penne]]
+* [[Creamy Tomato Parmasean Sauce]]
 
 ## Snacks
 
 * [[Artichoke Pesto]]
 * [[Celery Dip]]
+* [[Chocolate Fruit Kebab]]
+* [[Cucumber Sliders]]
 
 ## Desserts
 
 * [[Avocado Ice Cream]]
+* [[Chocolate Chip Cookie Dough Balls]]
+* [[Chocolate Chip Oatmeal Cookies]]
+* [[Chocolate Chip Tollhouse Cookies]]
+* [[Low Cholesterol Brownies]]
+* [[Coconut Cream Pie]]
+* [[Cream Cheese Icing]]

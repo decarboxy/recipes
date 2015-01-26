@@ -1,9 +1,7 @@
-====== Cream Cheese Icing ======
-
-  * 1 pound cream cheese, softened
-  * 4 cups sifted confectioners' sugar
-  * 2 sticks unsalted butter (1 cup), softened
-  * 1 teaspoon vanilla extract
+* 1 pound cream cheese, softened
+* 4 cups sifted confectioners' sugar
+* 2 sticks unsalted butter (1 cup), softened
+* 1 teaspoon vanilla extract
 
 In a standing mixer fitted with the paddle attachment, or with a hand-held electric mixer in a large bowl, mix the cream cheese, sugar, and butter on low speed until incorporated. Increase the speed to high, and mix until light and fluffy, about 5 minutes. (Occasionally turn the mixer off, and scrape the down the sides of the bowl with a rubber spatula.)
 
