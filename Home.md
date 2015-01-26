@@ -9,6 +9,7 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Asian Flank Steak]]
 * [[Beef Nachos]]
 * [[Bulgogi]]
+* [[Lasagna]]
 
 ### Chicken
 
@@ -21,6 +22,8 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Gordons Enchiladas]]
 * [[Chicken Enchiladas]]
 * [[Hawaiian Teriyaki Chicken]]
+* [[Jamaican Curry Chicken]]
+* [[Kung Pao Chicken]]
 
 ### Pork
 
@@ -33,6 +36,7 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Baking Powder Biscuits]]
 * [[Banana Bread]]
 * [[German Pancakes]]
+* [[Irish Soda Bread]]
 
 ## Seafood
 
@@ -49,6 +53,7 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Ghee]]
 * [[Ginger And Green Chili Sauce]]
 * [[Guacamole]]
+* [[Jamaican-Curry-Powder]]
 
 ## Soup
 
@@ -80,12 +85,13 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 ## Pasta
 
 * [[Creamy Pesto Penne]]
-* [[Creamy Tomato Parmasean Sauce]]
+* [[Creamy Tomato Parmesan Sauce]]
 
 ## Snacks
 
 * [[Artichoke Pesto]]
 * [[Celery Dip]]
+
 * [[Chocolate Fruit Kebab]]
 * [[Cucumber Sliders]]
 * [[Easy Egg Salad]]
@@ -102,3 +108,5 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Cream Cheese Icing]]
 * [[Fruit Crisp]]
 * [[Hermits]]
+* [[Ice Cream Cake]]
+* [[Italian 3 Layer Cake]]
