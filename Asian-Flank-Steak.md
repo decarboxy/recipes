@@ -1,20 +1,19 @@
-====== Asian-Spiced Flank Steak with Pineapple-Pepper Salsa ======
+*Serves 4, 5 points per serving*
 
+## For the steak
 
-// Serves 4, 5 points per serving//
+* 3 Tbsp low sodium soy sauce
+* 1 1/2 tsp grated fresh ginger root
+* 1/8 tsp garlic powder
+* 1 lb lean flank steak, 1/2 in thick
 
-**For the steak**
-  * 3 Tbsp low sodium soy sauce
-  * 1 1/2 tsp grated fresh ginger root
-  * 1/8 tsp garlic powder
-  * 1 lb lean flank steak, 1/2 in thick
+## For the salsa
 
-**For the salsa**
-  * 1 cup diced pineapple
-  * 1/4 cup diced sweet red pepper
-  * 2 Tbsp sliced scallions
-  * 2 tsp low sodium soy sauce
-  * 1/2 tsp fresh ginger root
+* 1 cup diced pineapple
+* 1/4 cup diced sweet red pepper
+* 2 Tbsp sliced scallions
+* 2 tsp low sodium soy sauce
+* 1/2 tsp fresh ginger root
 
 In a glass bowl with a lid, combine first 3 ingredients.  Add steak, turn to coat and coer bowl.  refrigerate at least 30 minutes or overnight.  
 

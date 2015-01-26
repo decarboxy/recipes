@@ -1,25 +1,23 @@
-====== Avacado and Shrimp Salad ======
+## Salad
 
-===== Salad =====
+* 1 Tbsp Old Bay Seasoning
+* 1-2 lb medium shrimp, peeled and diced
+* 3/4 cup cucumber, peeled, seeded and cut into 1/4" cubes
+* 2 tbsp fresh dill, chopped
+* 1 tbsp fresh chives
+* 2 Avocados
+* Salt
+* 4 cups mixed greens
 
-  * 1 Tbsp Old Bay Seasoning
-  * 1-2 lb medium shrimp, peeled and diced
-  * 3/4 cup cucumber, peeled, seeded and cut into 1/4" cubes
-  * 2 tbsp fressh dill, chopped
-  * 1 tbsp fresh chives
-  * 2 Avocados
-  * Salt
-  * 4 cups mixed greents
+## Dressing
 
-===== Dressing =====
+* Grated zest of 1 lemon
+* 3 Tbsp fresh lemon juice
+* 3 tbsp olive oil
+* 3 tbsp mayo
+* salt and pepper
 
-  * Grated zest of 1 lemon
-  * 3 Tbsp fresh lemon juice
-  * 3 tbsp oliv oil
-  * 3 tbsp mayo
-  * salt and pepper
-
-===== Directions =====
+## Directions
 
 In a large sauce pan, boil 4-5 cups of water with old bay seasoning, add shrimp, lower heat and simmer for 1 minutes.  Turn off heat and rest for 3 minutes, drain and let cool.
 

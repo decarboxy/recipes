@@ -1,16 +1,14 @@
-====== Arugula, Peach and Goat Cheese Salad ======
+*Serves 4, 4 points per serving*
 
-//Serves 4, 4 points per serving//
-
-  * 3 medium peaches, ripe
-  * 1 Tbsp live oil
-  * 1 Tbsp red wine vinegar
-  * 1/4 tsp table salt
-  * 1/4 tsp fresh ground black pepper
-  * 6 cups baby arugula
-  * 1/2 small red onion
-  * 1/4 cup crumbled goat cheeese
-  * 1/4 cup salted pistachios, chopped
+* 3 medium peaches, ripe
+* 1 Tbsp live oil
+* 1 Tbsp red wine vinegar
+* 1/4 tsp table salt
+* 1/4 tsp fresh ground black pepper
+* 6 cups baby arugula
+* 1/2 small red onion
+* 1/4 cup crumbled goat cheese
+* 1/4 cup salted pistachios, chopped
 
 Peel and pit one peach, cut into chunks.  cut remaining peaches into thin slices
 

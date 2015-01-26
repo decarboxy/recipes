@@ -1,18 +1,19 @@
-====== Balsamic pork tenderloin ======
-===== Marinade =====
-  * 1/4 cup balsamic vinegar
-  * 1 Tbsp whole grain mustard
-  * 12 oz pork tenderloin
-==== Sauce ====
+# Marinade 
 
-  * 1 tbsp sliced shallots
-  * 1 tsp olive oil
-  * 2 tbsp dry white wine
-  * 1 sprig fresh rosemary
-  * 1/2 cup low sodium chicken broth
-  * 2 tbsp fresh lemon juice
-  * 1 tbsp honey
-  * 1 tbsp unsalted butter
+* 1/4 cup balsamic vinegar
+* 1 Tbsp whole grain mustard
+* 12 oz pork tenderloin
+
+# Sauce
+
+* 1 tbsp sliced shallots
+* 1 tsp olive oil
+* 2 tbsp dry white wine
+* 1 sprig fresh rosemary
+* 1/2 cup low sodium chicken broth
+* 2 tbsp fresh lemon juice
+* 1 tbsp honey
+* 1 tbsp unsalted butter
 
 
 Whisk together balsamic and mustard in a shallow baking dish, add pork and turn to coat, marinate 10 minutes at room temp
