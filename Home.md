@@ -4,4 +4,4 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 
 # Sauces
 
-* [[alfredo_sauce|Alfredo Sauce]]
+* [[Alfredo Sauce]]
