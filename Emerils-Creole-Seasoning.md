@@ -1,13 +1,11 @@
-====== Emeril's Creole Seasoning ======
-
-  * 2 1/2 tablespoons paprika
-  * 2 tablespoons salt
-  * 2 tablespoons garlic powder
-  * 1 tablespoon black pepper
-  * 1 tablespoon onion powder
-  * 1 tablespoon cayenne pepper
-  * 1 tablespoon dried leaf oregano
-  * 1 tablespoon dried thyme
+* 2 1/2 tablespoons paprika
+* 2 tablespoons salt
+* 2 tablespoons garlic powder
+* 1 tablespoon black pepper
+* 1 tablespoon onion powder
+* 1 tablespoon cayenne pepper
+* 1 tablespoon dried leaf oregano
+* 1 tablespoon dried thyme
 
 Combine all ingredients thoroughly and store in an airtight jar or container.
 

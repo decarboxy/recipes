@@ -1,14 +1,12 @@
-====== Escarole and Turkey Bacon Salad with Warm Vinaigrette ======
+*Serves 4, 3 points per serving* 
 
-//Serves 4, 3 points per serving//
-
-  * 8 cups escarole leaves, chopped
-  * 4 slices uncooked turkey bacon
-  * 3 medium shallots, halved and thinly sliced
-  * 1/4 cup red wine vinegar
-  * 1/4 cup water
-  * 1/4 tsp tabe salt
-  * 1/4 cup ground black pepper
+* 8 cups escarole leaves, chopped
+* 4 slices uncooked turkey bacon
+* 3 medium shallots, halved and thinly sliced
+* 1/4 cup red wine vinegar
+* 1/4 cup water
+* 1/4 tsp tabe salt
+* 1/4 cup ground black pepper
 
 Place escarole in a large serving bowl.
 

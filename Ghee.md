@@ -1,6 +1,3 @@
-====== Ghee ======
-
-
 Ghee is a useful type of highly flavored clarified butter. You can use it in French and fusion recipes, substituting 1/4 the amount of ghee for the amount of butter in some sauces, achieving great flavor without all the fat.
 
 Basically what you're doing here is boiling off the water in the butter, which causes that the protein to precipitate out.  What you're left with is more or less entirely saturated fat, and the lack of water and protien gives it a really high smoke point.  You can actually fry things in ghee without setting your kitchen on fire.  It's cool.

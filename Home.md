@@ -18,26 +18,37 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Chicken Cordon Bleu]]
 * [[Chicken Gumbo]]
 * [[Curried Yogurt Chicken]]
+* [[Gordons Enchiladas]]
+* [[Chicken Enchiladas]]
+* [[Hawaiian Teriyaki Chicken]]
 
 ### Pork
 
 * [[Balsamic Pork Tenderloin]]
 * [[Braised Egg And Pork]]
+* [[Dwaeji Bulgogi]]
 
 ##Breads, Pastries, and Pies (i.e. Baked Goods)
 
 * [[Baking Powder Biscuits]]
 * [[Banana Bread]]
+* [[German Pancakes]]
 
 ## Seafood
 
 * [[Avocado Shrimp Salad]]
 * [[Crab Shrimp Appetizers]]
 
-## Sauces
+## Sauces and Seasonings
 
 * [[Alfredo Sauce]]
 * [[Country Gravy]]
+* [[Emerils Creole Seasoning]]
+* [[Fried Onions]]
+* [[Garam Masala]]
+* [[Ghee]]
+* [[Ginger And Green Chili Sauce]]
+* [[Guacamole]]
 
 ## Soup
 
@@ -46,6 +57,9 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Butternut Squash Stew]]
 * [[Canh Chua]]
 * [[Cream Of Mushroom Soup]]
+* [[Flu Chaser Soup]]
+* [[Garden Vegetable Soup]]
+* [[Gazpacho]]
 
 ## Vegetable Dishes
 
@@ -58,6 +72,10 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Chickpea Burgers]]
 * [[Chickpea Stirfry]]
 * [[Chilled Zucchini Soup]]
+* [[Eggplant Moussaka]]
+* [[Escarole Turkey Bacon Salad]]
+* [[Feta Vegetable Frittatas]]
+* [[Green Bean Casserole]]
 
 ## Pasta
 
@@ -70,6 +88,8 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Celery Dip]]
 * [[Chocolate Fruit Kebab]]
 * [[Cucumber Sliders]]
+* [[Easy Egg Salad]]
+* [[Hot Cocoa Oatmeal]]
 
 ## Desserts
 
@@ -80,3 +100,5 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Low Cholesterol Brownies]]
 * [[Coconut Cream Pie]]
 * [[Cream Cheese Icing]]
+* [[Fruit Crisp]]
+* [[Hermits]]
