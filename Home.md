@@ -11,6 +11,7 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Bulgogi]]
 * [[Lasagna]]
 * [[Mongolian Beef]]
+* [[Nikujaga]]
 
 ### Chicken
 
@@ -25,12 +26,14 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Hawaiian Teriyaki Chicken]]
 * [[Jamaican Curry Chicken]]
 * [[Kung Pao Chicken]]
+* [[Orange Chicken]]
 
 ### Pork
 
 * [[Balsamic Pork Tenderloin]]
 * [[Braised Egg And Pork]]
 * [[Dwaeji Bulgogi]]
+* [[Mustard Pork Chops]]
 
 ##Breads, Pastries, and Pies (i.e. Baked Goods)
 
@@ -57,6 +60,7 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Ginger And Green Chili Sauce]]
 * [[Guacamole]]
 * [[Jamaican-Curry-Powder]]
+* [[Nuoc Mam]]
 
 ## Soup
 
@@ -68,6 +72,7 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Flu Chaser Soup]]
 * [[Garden Vegetable Soup]]
 * [[Gazpacho]]
+* [[Mushroom Bisque]]
 
 ## Vegetable Dishes
 
@@ -85,6 +90,8 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Feta Vegetable Frittatas]]
 * [[Green Bean Casserole]]
 * [[Lentil Pot Pie]]
+* [[Mujaddara]]
+* [[Crispy Onion Rings]]
 
 ## Pasta
 
@@ -101,6 +108,7 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Cucumber Sliders]]
 * [[Easy Egg Salad]]
 * [[Hot Cocoa Oatmeal]]
+* [[Olive Tomato Dip]]
 
 ## Desserts
 
@@ -117,6 +125,8 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Italian 3 Layer Cake]]
 * [[Lemon Meringue Pie]]
 * [[Molasses Puff]]
+* [[Nian Gao]]
+* [[No Bake Cookies]]
 
 ## Drinks
 

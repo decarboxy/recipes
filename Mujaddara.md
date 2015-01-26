@@ -1,14 +1,11 @@
-====== Mujaddara ======
-
-
-  * 1 cup lentils
-  * 1/4 cup white rice
-  * 2 Tbsp [[recipes:ghee|Ghee]]
-  * 3 spanish onions, large
-  * 1 tsp salt
-  * 1/2 tsp ground pepper
-  * 1/2 tsp ground cumin
-  * 1/4 tsp new mexico chili powder
+* 1 cup lentils
+* 1/4 cup white rice
+* 2 Tbsp [[recipes:ghee|Ghee]]
+* 3 spanish onions, large
+* 1 tsp salt
+* 1/2 tsp ground pepper
+* 1/2 tsp ground cumin
+* 1/4 tsp new mexico chili powder
 
 
 Wash one cup of regular lentils (the inexpensive kind found in any grocery store), and put them in a pan with 5 cups of water.  Bring to a boil, cover and cook over medium heat of 15 minutes, then add 1/4 cup white rice , cover and cook another 20 minutes until both the lentils and the rice are cooked.

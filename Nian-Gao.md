@@ -1,10 +1,10 @@
-  * 16 oz. Mochiko sweet rice flour (glutinous rice flour), plus a bit extra for sprinkling on the baking dish
-  * 1 stick of butter or 3/4 cup of vegetable oil
-  * 3 eggs
-  * 2 1/2 cups milk
-  * 1 to 1 3/4 cup sugar--depending on if you like it sweeter
-  * 1 Tb baking soda
-  * One can of red azuki beans
+* 16 oz. Mochiko sweet rice flour (glutinous rice flour), plus a bit extra for sprinkling on the baking dish
+* 1 stick of butter or 3/4 cup of vegetable oil
+* 3 eggs
+* 2 1/2 cups milk
+* 1 to 1 3/4 cup sugar--depending on if you like it sweeter
+* 1 Tb baking soda
+* One can of red azuki beans
 
 Mix everything but the beans with an electric mixer at medium speed for 2 minutes. Beat for 2 more minutes at high speed.
 Sprinkle Mochiko flour over a 9"x13" baking dish that has been oiled or sprayed with Pam.
