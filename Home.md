@@ -5,3 +5,7 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 # Sauces
 
 * [[Alfredo Sauce]]
+
+# Vegetable Dishes
+
+* [[Apple Pear Salad]]
