@@ -1,30 +1,30 @@
-**Lentil and Potato Pot Pies with Rosemary Biscuits
-Makes 4 servings**
+*Lentil and Potato Pot Pies with Rosemary Biscuits Makes 4 servings*
 
+## FILLING
 
-FILLING:
-  * ½ cup brown lentils
-  * 1/4 teaspoon salt
-  * 1 tablespoon olive oil
-  * 1 large onion, chopped
-  * 2 carrots, cut into 1/4-inch-thick slices
-  * 1 ½ teaspoons dried rosemary
-  * ¼ teaspoon dried thyme
-  * 1 large garlic clove, minced
-  * 2 tablespoons all-purpose flour
-  * 2 cups vegetable broth
-  * 3 medium or 9 baby Yukon Gold potatoes, cut into 1/2-inch chunks
-  * 4 teaspoons soy sauce
-  * 1 tablespoon tomato paste
+* ½ cup brown lentils
+* 1/4 teaspoon salt
+* 1 tablespoon olive oil
+* 1 large onion, chopped
+* 2 carrots, cut into 1/4-inch-thick slices
+* 1 ½ teaspoons dried rosemary
+* ¼ teaspoon dried thyme
+* 1 large garlic clove, minced
+* 2 tablespoons all-purpose flour
+* 2 cups vegetable broth
+* 3 medium or 9 baby Yukon Gold potatoes, cut into 1/2-inch chunks
+* 4 teaspoons soy sauce
+* 1 tablespoon tomato paste
 
-BISCUITS:
-  * 1 cup plus 2 tablespoons all-purpose flour
-  * 6 tablespoons yellow cornmeal
-  * 1 1/4 teaspoons baking powder
-  * 1/2 teaspoon salt
-  * 4 tablespoons chilled unsalted butter, diced
-  * ½ cup buttermilk* (you can reconstitute dry buttermilk, or add 1tbsp vinegar to regular milk)
-  * 1 teaspoon dried rosemary
+## BISCUITS
+
+* 1 cup plus 2 tablespoons all-purpose flour
+* 6 tablespoons yellow cornmeal
+* 1 1/4 teaspoons baking powder
+* 1/2 teaspoon salt
+* 4 tablespoons chilled unsalted butter, diced
+* ½ cup buttermilk* (you can reconstitute dry buttermilk, or add 1tbsp vinegar to regular milk)
+* 1 teaspoon dried rosemary
 
 To make FILLING:
 

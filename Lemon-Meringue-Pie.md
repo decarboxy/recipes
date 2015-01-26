@@ -1,19 +1,16 @@
-**Lemon Meringue Pie**
+## Lemon Filling:
 
-Ingredients
-Lemon Filling:
-  * 4 egg yolks (reserve whites for meringue)
-  * 1/3 cup cornstarch
-  * 1 1/2 cups water
-  * 1 1/3 cups sugar
-  * 1/4 teaspoon salt
-  * 3 tablespoons butter
-  * 1/2 cup lemon juice
-  * 1 tablespoon finely grated lemon zest
-  * [[recipes:pie_crust|1 (9-inch) pre-baked pie shell]]
-  * 1 recipe Meringue, recipe follows
+* 4 egg yolks (reserve whites for meringue)
+* 1/3 cup cornstarch
+* 1 1/2 cups water
+* 1 1/3 cups sugar
+* 1/4 teaspoon salt
+* 3 tablespoons butter
+* 1/2 cup lemon juice
+* 1 tablespoon finely grated lemon zest
+* [[recipes:pie_crust|1 (9-inch) pre-baked pie shell]]
+* 1 recipe Meringue, recipe follows
 
-Directions
 
 Adjust the oven rack to the middle position. Preheat oven to 375 degrees F.
 
@@ -23,11 +20,11 @@ In a medium saucepan, combine cornstarch, water, sugar, and salt. Whisk to combi
 
 Return egg mixture to saucepan, turn heat down to low and cook, stirring constantly, for 1 more minute. Remove from heat and gently stir in butter, lemon juice, and zest until well combined. Pour mixture into pie shell and top with meringue while filling is still hot. Make sure meringue completely covers filling and that it goes right up to the edge of the crust. Bake for 10 to 12 minutes or until meringue is golden. Remove from oven and cool on a wire rack. Make sure pie is cooled completely before slicing.
 
-Meringue Topping:
+## Meringue Topping 
 
-  * 4 egg whites
-  * 1 pinch cream of tartar
-  * 2 tablespoons sugar
+* 4 egg whites
+* 1 pinch cream of tartar
+* 2 tablespoons sugar
 
 Place egg whites and cream of tartar in the bowl of a stand mixer fitted with the whisk attachment. Beat egg whites until soft peaks form and then gradually add sugar and continue beating until stiff peaks form, approximately 1 to 2 minutes. Use to top lemon filling.
 

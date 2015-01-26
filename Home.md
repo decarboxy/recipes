@@ -10,6 +10,7 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Beef Nachos]]
 * [[Bulgogi]]
 * [[Lasagna]]
+* [[Mongolian Beef]]
 
 ### Chicken
 
@@ -42,6 +43,8 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 
 * [[Avocado Shrimp Salad]]
 * [[Crab Shrimp Appetizers]]
+* [[Lemon Garlic Crumb Shrimp]]
+* [[Mare Salad]]
 
 ## Sauces and Seasonings
 
@@ -81,11 +84,13 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Escarole Turkey Bacon Salad]]
 * [[Feta Vegetable Frittatas]]
 * [[Green Bean Casserole]]
+* [[Lentil Pot Pie]]
 
 ## Pasta
 
 * [[Creamy Pesto Penne]]
 * [[Creamy Tomato Parmesan Sauce]]
+* [[Macaroni And Cheese]]
 
 ## Snacks
 
@@ -110,3 +115,9 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Hermits]]
 * [[Ice Cream Cake]]
 * [[Italian 3 Layer Cake]]
+* [[Lemon Meringue Pie]]
+* [[Molasses Puff]]
+
+## Drinks
+
+* [[Maple Iced Coffee]]
