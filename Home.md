@@ -103,7 +103,6 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 
 * [[Artichoke Pesto]]
 * [[Celery Dip]]
-
 * [[Chocolate Fruit Kebab]]
 * [[Cucumber Sliders]]
 * [[Easy Egg Salad]]
