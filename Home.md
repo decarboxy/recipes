@@ -103,6 +103,7 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Macaroni And Cheese]]
 * [[Pasta Carbonara]]
 * [[Petes Pasta]]
+* [[Smoked Mussel Pasta]]
 
 ## Snacks
 
