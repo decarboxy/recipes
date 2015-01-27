@@ -12,6 +12,7 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Lasagna]]
 * [[Mongolian Beef]]
 * [[Nikujaga]]
+* [[Pepperoni Burgers]]
 
 ### Chicken
 
@@ -27,6 +28,7 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Jamaican Curry Chicken]]
 * [[Kung Pao Chicken]]
 * [[Orange Chicken]]
+* [[Oven Fried Chicken]]
 
 ### Pork
 
@@ -35,19 +37,20 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Dwaeji Bulgogi]]
 * [[Mustard Pork Chops]]
 
+### Seafood
+
+* [[Avocado Shrimp Salad]]
+* [[Crab Shrimp Appetizers]]
+* [[Lemon Garlic Crumb Shrimp]]
+* [[Mare Salad]]
+* [[Parmesan Topped Flounder]]
+
 ##Breads, Pastries, and Pies (i.e. Baked Goods)
 
 * [[Baking Powder Biscuits]]
 * [[Banana Bread]]
 * [[German Pancakes]]
 * [[Irish Soda Bread]]
-
-## Seafood
-
-* [[Avocado Shrimp Salad]]
-* [[Crab Shrimp Appetizers]]
-* [[Lemon Garlic Crumb Shrimp]]
-* [[Mare Salad]]
 
 ## Sauces and Seasonings
 
@@ -98,6 +101,8 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Creamy Pesto Penne]]
 * [[Creamy Tomato Parmesan Sauce]]
 * [[Macaroni And Cheese]]
+* [[Pasta Carbonara]]
+* [[Petes Pasta]]
 
 ## Snacks
 
@@ -109,6 +114,7 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Easy Egg Salad]]
 * [[Hot Cocoa Oatmeal]]
 * [[Olive Tomato Dip]]
+* [[PB Apple Sandwiches]]
 
 ## Desserts
 
@@ -127,6 +133,9 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Molasses Puff]]
 * [[Nian Gao]]
 * [[No Bake Cookies]]
+* [[Oreo Truffles]]
+* [[Pecan Pie Filling]]
+* [[Pie Crust]]
 
 ## Drinks
 
