@@ -13,8 +13,11 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Mongolian Beef]]
 * [[Nikujaga]]
 * [[Pepperoni Burgers]]
+* [[Southwestern Steak]]
+* [[Steak Mushroom Pie]]
+* [[Swedish Meatballs]]
 
-### Chicken
+### Poultry
 
 * [[Carrot Sambal]]
 * [[Chicken Breast Saute]]
@@ -29,6 +32,11 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Kung Pao Chicken]]
 * [[Orange Chicken]]
 * [[Oven Fried Chicken]]
+* [[Stuffing Topped Chicken Casserole]]
+* [[Teriyaki Chicken Sliders]]
+* [[Thai Peanut Chicken]]
+* [[Turkey Reuben]]
+* [[Vietnamese Coleslaw]]
 
 ### Pork
 
@@ -36,6 +44,10 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Braised Egg And Pork]]
 * [[Dwaeji Bulgogi]]
 * [[Mustard Pork Chops]]
+* [[Pork Stuffed Tofu]]
+* [[Ediths Sausage Noogies]]
+* [[Sweet And Sour Pork]]
+* [[Teriyaki Pork]]
 
 ### Seafood
 
@@ -44,6 +56,8 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Lemon Garlic Crumb Shrimp]]
 * [[Mare Salad]]
 * [[Parmesan Topped Flounder]]
+* [[Shitake Ginger Tuna]]
+* [[Vietnamese Shrimp]]
 
 ##Breads, Pastries, and Pies (i.e. Baked Goods)
 
@@ -66,6 +80,10 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Jamaican-Curry-Powder]]
 * [[Nuoc Mam]]
 * [[Pimento Cheese]]
+* [[Pizza Sauce]]
+* [[Stuffing]]
+* [[Tequila Rub]]
+* [[Unagi Sauce]]
 
 ## Soup
 
@@ -78,6 +96,9 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Garden Vegetable Soup]]
 * [[Gazpacho]]
 * [[Mushroom Bisque]]
+* [[Sukiyaki]]
+* [[Thai Coconut Soup]]
+* [[Three Bean Chili]]
 
 ## Vegetable Dishes
 
@@ -97,6 +118,18 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Lentil Pot Pie]]
 * [[Mujaddara]]
 * [[Crispy Onion Rings]]
+* [[Potato Onion Skillet]]
+* [[Quinoa Pilaf]]
+* [[Raita Rice]]
+* [[Sauteed Cabbage]]
+* [[Spring Vegetable Barley Risotto]]
+* [[Stir Fried Vegetables]]
+* [[Summer Vegetable Salad]]
+* [[Sweet Potato Bake]]
+* [[Sweet Potato Casserole]]
+* [[Vegetable Risotto]]
+* [[Watermelon Blackberry Salad]]
+* [[Winter Vegetable Curry]]
 
 ## Pasta
 
@@ -106,6 +139,9 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Pasta Carbonara]]
 * [[Petes Pasta]]
 * [[Smoked Mussel Pasta]]
+* [[Rigatoni With Sausage]]
+* [[Shrimp Scampi]]
+* [[Spicy Seafood Pasta]]
 
 ## Snacks
 
@@ -117,6 +153,8 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Hot Cocoa Oatmeal]]
 * [[Olive Tomato Dip]]
 * [[PB Apple Sandwiches]]
+* [[Stuffed Dates]]
+* [[Turkey Mango Strips]]
 
 ## Desserts
 
@@ -139,7 +177,16 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Pecan Pie Filling]]
 * [[Pie Crust]]
 * [[Pineapple Upside Down Cake]]
+* [[Raspberry Chocolate Cups]]
+* [[Rum Balls]]
+* [[Sticky Rice And Mango]]
+* [[Strawberry Rhubarb Sauce]]
+* [[Tiramisu]]
+* [[Zucchini Bread]]
+* [[Zucchini Muffins]]
 
 ## Drinks
 
 * [[Maple Iced Coffee]]
+* [[Pomegranate Cooler]]
+* [[Tropical Rainbow Punch]]
