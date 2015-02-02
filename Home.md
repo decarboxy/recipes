@@ -51,6 +51,7 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Banana Bread]]
 * [[German Pancakes]]
 * [[Irish Soda Bread]]
+* [[Pizza Dough]]
 
 ## Sauces and Seasonings
 
@@ -64,6 +65,7 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Guacamole]]
 * [[Jamaican-Curry-Powder]]
 * [[Nuoc Mam]]
+* [[Pimento Cheese]]
 
 ## Soup
 
@@ -136,6 +138,7 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Oreo Truffles]]
 * [[Pecan Pie Filling]]
 * [[Pie Crust]]
+* [[Pineapple Upside Down Cake]]
 
 ## Drinks
 
