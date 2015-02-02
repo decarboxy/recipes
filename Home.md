@@ -2,6 +2,49 @@
 
 To contribute to this collection, fork https://github.com/decarboxy/recipes and submit a pull request
 
+##Breads, Pastries, and Pies (i.e. Baked Goods)
+
+* [[Baking Powder Biscuits]]
+* [[Banana Bread]]
+* [[German Pancakes]]
+* [[Irish Soda Bread]]
+* [[Pizza Dough]]
+
+## Desserts
+
+* [[Avocado Ice Cream]]
+* [[Chocolate Chip Cookie Dough Balls]]
+* [[Chocolate Chip Oatmeal Cookies]]
+* [[Chocolate Chip Tollhouse Cookies]]
+* [[Low Cholesterol Brownies]]
+* [[Coconut Cream Pie]]
+* [[Cream Cheese Icing]]
+* [[Fruit Crisp]]
+* [[Hermits]]
+* [[Ice Cream Cake]]
+* [[Italian 3 Layer Cake]]
+* [[Lemon Meringue Pie]]
+* [[Molasses Puff]]
+* [[Nian Gao]]
+* [[No Bake Cookies]]
+* [[Oreo Truffles]]
+* [[Pecan Pie Filling]]
+* [[Pie Crust]]
+* [[Pineapple Upside Down Cake]]
+* [[Raspberry Chocolate Cups]]
+* [[Rum Balls]]
+* [[Sticky Rice And Mango]]
+* [[Strawberry Rhubarb Sauce]]
+* [[Tiramisu]]
+* [[Zucchini Bread]]
+* [[Zucchini Muffins]]
+
+## Drinks
+
+* [[Maple Iced Coffee]]
+* [[Pomegranate Cooler]]
+* [[Tropical Rainbow Punch]]
+
 ## Meat
 
 ### Beef
@@ -16,6 +59,17 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Southwestern Steak]]
 * [[Steak Mushroom Pie]]
 * [[Swedish Meatballs]]
+
+### Pork
+
+* [[Balsamic Pork Tenderloin]]
+* [[Braised Egg And Pork]]
+* [[Dwaeji Bulgogi]]
+* [[Mustard Pork Chops]]
+* [[Pork Stuffed Tofu]]
+* [[Ediths Sausage Noogies]]
+* [[Sweet And Sour Pork]]
+* [[Teriyaki Pork]]
 
 ### Poultry
 
@@ -38,17 +92,6 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Turkey Reuben]]
 * [[Vietnamese Coleslaw]]
 
-### Pork
-
-* [[Balsamic Pork Tenderloin]]
-* [[Braised Egg And Pork]]
-* [[Dwaeji Bulgogi]]
-* [[Mustard Pork Chops]]
-* [[Pork Stuffed Tofu]]
-* [[Ediths Sausage Noogies]]
-* [[Sweet And Sour Pork]]
-* [[Teriyaki Pork]]
-
 ### Seafood
 
 * [[Avocado Shrimp Salad]]
@@ -59,13 +102,20 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Shitake Ginger Tuna]]
 * [[Vietnamese Shrimp]]
 
-##Breads, Pastries, and Pies (i.e. Baked Goods)
+## Pasta
 
-* [[Baking Powder Biscuits]]
-* [[Banana Bread]]
-* [[German Pancakes]]
-* [[Irish Soda Bread]]
-* [[Pizza Dough]]
+* [[Creamy Pesto Penne]]
+* [[Creamy Tomato Parmesan Sauce]]
+* [[Macaroni And Cheese]]
+* [[Pasta Carbonara]]
+* [[Petes Pasta]]
+* [[Smoked Mussel Pasta]]
+* [[Rigatoni With Sausage]]
+* [[Shrimp Scampi]]
+* [[Spicy Seafood Pasta]]
+* [[Tortellini With Mushrooms]]
+* [[Stuffed Pasta Shells]]
+
 
 ## Sauces and Seasonings
 
@@ -84,6 +134,19 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Stuffing]]
 * [[Tequila Rub]]
 * [[Unagi Sauce]]
+
+## Snacks
+
+* [[Artichoke Pesto]]
+* [[Celery Dip]]
+* [[Chocolate Fruit Kebab]]
+* [[Cucumber Sliders]]
+* [[Easy Egg Salad]]
+* [[Hot Cocoa Oatmeal]]
+* [[Olive Tomato Dip]]
+* [[PB Apple Sandwiches]]
+* [[Stuffed Dates]]
+* [[Turkey Mango Strips]]
 
 ## Soup
 
@@ -130,65 +193,3 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Vegetable Risotto]]
 * [[Watermelon Blackberry Salad]]
 * [[Winter Vegetable Curry]]
-
-## Pasta
-
-* [[Creamy Pesto Penne]]
-* [[Creamy Tomato Parmesan Sauce]]
-* [[Macaroni And Cheese]]
-* [[Pasta Carbonara]]
-* [[Petes Pasta]]
-* [[Smoked Mussel Pasta]]
-* [[Rigatoni With Sausage]]
-* [[Shrimp Scampi]]
-* [[Spicy Seafood Pasta]]
-* [[Tortellini With Mushrooms]]
-* [[Stuffed Pasta Shells]]
-
-## Snacks
-
-* [[Artichoke Pesto]]
-* [[Celery Dip]]
-* [[Chocolate Fruit Kebab]]
-* [[Cucumber Sliders]]
-* [[Easy Egg Salad]]
-* [[Hot Cocoa Oatmeal]]
-* [[Olive Tomato Dip]]
-* [[PB Apple Sandwiches]]
-* [[Stuffed Dates]]
-* [[Turkey Mango Strips]]
-
-## Desserts
-
-* [[Avocado Ice Cream]]
-* [[Chocolate Chip Cookie Dough Balls]]
-* [[Chocolate Chip Oatmeal Cookies]]
-* [[Chocolate Chip Tollhouse Cookies]]
-* [[Low Cholesterol Brownies]]
-* [[Coconut Cream Pie]]
-* [[Cream Cheese Icing]]
-* [[Fruit Crisp]]
-* [[Hermits]]
-* [[Ice Cream Cake]]
-* [[Italian 3 Layer Cake]]
-* [[Lemon Meringue Pie]]
-* [[Molasses Puff]]
-* [[Nian Gao]]
-* [[No Bake Cookies]]
-* [[Oreo Truffles]]
-* [[Pecan Pie Filling]]
-* [[Pie Crust]]
-* [[Pineapple Upside Down Cake]]
-* [[Raspberry Chocolate Cups]]
-* [[Rum Balls]]
-* [[Sticky Rice And Mango]]
-* [[Strawberry Rhubarb Sauce]]
-* [[Tiramisu]]
-* [[Zucchini Bread]]
-* [[Zucchini Muffins]]
-
-## Drinks
-
-* [[Maple Iced Coffee]]
-* [[Pomegranate Cooler]]
-* [[Tropical Rainbow Punch]]
