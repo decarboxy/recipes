@@ -16,7 +16,6 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Chocolate Chip Cookie Dough Balls]]
 * [[Chocolate Chip Oatmeal Cookies]]
 * [[Chocolate Chip Tollhouse Cookies]]
-* [[Low Cholesterol Brownies]]
 * [[Coconut Cream Pie]]
 * [[Cream Cheese Icing]]
 * [[Fruit Crisp]]
@@ -24,6 +23,7 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Ice Cream Cake]]
 * [[Italian 3 Layer Cake]]
 * [[Lemon Meringue Pie]]
+* [[Low Cholesterol Brownies]]
 * [[Molasses Puff]]
 * [[Nian Gao]]
 * [[No Bake Cookies]]
@@ -65,11 +65,12 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Balsamic Pork Tenderloin]]
 * [[Braised Egg And Pork]]
 * [[Dwaeji Bulgogi]]
+* [[Ediths Sausage Noogies]]
 * [[Mustard Pork Chops]]
 * [[Pork Stuffed Tofu]]
-* [[Ediths Sausage Noogies]]
 * [[Sweet And Sour Pork]]
 * [[Teriyaki Pork]]
+
 
 ### Poultry
 
@@ -77,10 +78,10 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Chicken Breast Saute]]
 * [[Chicken Casserole]]
 * [[Chicken Cordon Bleu]]
+* [[Chicken Enchiladas]]
 * [[Chicken Gumbo]]
 * [[Curried Yogurt Chicken]]
 * [[Gordons Enchiladas]]
-* [[Chicken Enchiladas]]
 * [[Hawaiian Teriyaki Chicken]]
 * [[Jamaican Curry Chicken]]
 * [[Kung Pao Chicken]]
@@ -109,13 +110,12 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Macaroni And Cheese]]
 * [[Pasta Carbonara]]
 * [[Petes Pasta]]
-* [[Smoked Mussel Pasta]]
 * [[Rigatoni With Sausage]]
 * [[Shrimp Scampi]]
+* [[Smoked Mussel Pasta]]
 * [[Spicy Seafood Pasta]]
-* [[Tortellini With Mushrooms]]
 * [[Stuffed Pasta Shells]]
-
+* [[Tortellini With Mushrooms]]
 
 ## Sauces and Seasonings
 
@@ -174,13 +174,13 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Chickpea Burgers]]
 * [[Chickpea Stirfry]]
 * [[Chilled Zucchini Soup]]
+* [[Crispy Onion Rings]]
 * [[Eggplant Moussaka]]
 * [[Escarole Turkey Bacon Salad]]
 * [[Feta Vegetable Frittatas]]
 * [[Green Bean Casserole]]
 * [[Lentil Pot Pie]]
 * [[Mujaddara]]
-* [[Crispy Onion Rings]]
 * [[Potato Onion Skillet]]
 * [[Quinoa Pilaf]]
 * [[Raita Rice]]
