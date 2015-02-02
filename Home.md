@@ -142,6 +142,8 @@ To contribute to this collection, fork https://github.com/decarboxy/recipes and 
 * [[Rigatoni With Sausage]]
 * [[Shrimp Scampi]]
 * [[Spicy Seafood Pasta]]
+* [[Tortellini With Mushrooms]]
+* [[Stuffed Pasta Shells]]
 
 ## Snacks
 

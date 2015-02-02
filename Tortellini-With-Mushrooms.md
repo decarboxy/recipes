@@ -1,16 +1,14 @@
-====== cheese tortellini with Porcini and parmesan sauce ======
- 
-  * 1 ounce dried porcini mushrooms
-  * 1 cup hot water
-  * 1 pound cheese tortellini
-  * 1 tablespoon olive oil
-  * 1/4 cup shallots, chopped
-  * 3 cloves garlic, minced
-  * 1 teaspoon dried oregano
-  * 2 bay leaves
-  * 1/2 cup heavy cream
-  * 1/4 cup grated Pecorino Romano or Parmesan
-  * 2 tablespoons chopped fresh parsley leaves
+* 1 ounce dried porcini mushrooms
+* 1 cup hot water
+* 1 pound cheese tortellini
+* 1 tablespoon olive oil
+* 1/4 cup shallots, chopped
+* 3 cloves garlic, minced
+* 1 teaspoon dried oregano
+* 2 bay leaves
+* 1/2 cup heavy cream
+* 1/4 cup grated Pecorino Romano or Parmesan
+* 2 tablespoons chopped fresh parsley leaves
 
 Soak dried mushrooms in hot water for 15 minutes. Strain mushrooms through a sieve, reserving liquid. While the mushrooms are soaking, cook tortellini according to package directions.
 
